@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mathieu.ferry87@gmail.com
+	name = mathieu ferry
